@@ -2,6 +2,6 @@
 
 #define MAIN_FILE
 
-int void main();
+the entire header header file
 
 #endif
