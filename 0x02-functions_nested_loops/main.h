@@ -2,6 +2,9 @@
 
 #define MAIN_FILE
 
-int main(void) 
+int main(void)
+{
+
+}
 
 #endif
