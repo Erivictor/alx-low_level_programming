@@ -2,6 +2,6 @@
 
 #define MAIN_FILE
 
-the entire header header file
+int main(void) 
 
 #endif
